@@ -57,6 +57,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Hootsuite](https://hootsuite.com/) — Social media management platform supporting X.
 - [Buffer](https://buffer.com/) — Schedule and analyze social media posts.
 - [TweetDeck](https://tweetdeck.twitter.com/) — Official multi-account Twitter management tool.
+- [Social Media Bot](https://www.pelock.com/products/social-media-bot) — Schedule & automate social media activities.
 
 ## Third-Party Tools
 
